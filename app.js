@@ -12,6 +12,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}))
 app.use('/',router);
 
-app.listen(4000, () => console.log('Listening to port 4000')); 
+app.listen(80, () => console.log('Listening to port 80')); 
 module.exports.app = app;
 
