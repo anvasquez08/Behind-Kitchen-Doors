@@ -1,0 +1,115 @@
+
+body {
+  margin: 0px;
+  background-color: #ffffff;
+}
+
+.Model {
+    background-color: #d9534f;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10000;
+    overflow: auto;
+    text-align: center;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.navbar-header {
+  background-color: #d9534f;
+  color: #ECF0F1
+}
+
+.Title {
+  color: #d9534f;
+}
+
+.Address {
+  padding-bottom: 35px;
+}
+
+.Card {
+  background-color: #A292A1;
+  text-align:center
+}
+
+.Results {
+  fontSize: 5px;
+
+}
+
+.searchBars {
+  height: auto;
+  padding-top: 25px;
+  padding-bottom: 55px;
+  position: relative;
+}
+
+.Button {
+  width: 30%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  background-color: #F7F5F3;
+}
+
+.Button-details {
+  width: 25%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  background-color: #d9534f;
+  color: #ECF0F1;
+  float: right;
+}
+
+.Button-modal {
+  width: 25%;
+  margin-top: 10px;
+  margin-bottom:  10px;
+  margin-right:  10px;
+  margin-left:  10px;
+  background-color: #d9534f;
+  color: #ECF0F1;
+}
+
+.profile {
+  margin-right: 25px;
+}
+
+.Button-cards {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  background-color: #F7F5F3;
+
+}
+
+.img-responsive {
+    display: block;
+    min-height: 150px;
+    max-height: 50px;
+    max-width: 300px;
+}
+
+
+/*saving for reference */
+.img-cover {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  background-size: cover;
+  position: relative;
+  animation: fadein 2
+}
+
+.smallerText {
+  font-size: 10px;
+}
+
+
