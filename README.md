@@ -1,4 +1,4 @@
-Behind-Kitchen-Doors
+NYC-Bite
 ===========
 
 An app to find yelp reviews and health grades for restaurants in NYC
@@ -6,7 +6,7 @@ An app to find yelp reviews and health grades for restaurants in NYC
 View 
 ================
 
-[Behind-Kitchen-Doors](http://ec2-18-206-255-5.compute-1.amazonaws.com/) ��
+[NYC-Bite](http://ec2-18-206-255-5.compute-1.amazonaws.com/) ��
 
 Features
 ============== 
